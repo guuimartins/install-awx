@@ -8,7 +8,7 @@ Ambiente é instalado em helm com k3s
 
 Realize o clone do projeto em seu diretório de costume.
 ```
-https://github.com/guuimartins/install-awx.git
+git clone https://github.com/guuimartins/install-awx.git
 ```
 
 Em seguida execute o comando
